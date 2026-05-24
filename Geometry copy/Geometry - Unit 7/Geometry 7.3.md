@@ -1,0 +1,5 @@
+- A quadrilateral is a parallelogram *iff* both pairs of opposite sides are parallel
+- A quadrilateral is a parallelogram *iff* both pairs of opposite sides are congruent
+- A quadrilateral is a parallelogram *iff* one pair of opposite sides is both parallel and congruent 
+- A quadrilateral is a parallelogram *iff* both pairs of opposite angles are congruent
+- A quadrilateral is a parallelogram *iff* the diagonals bisect each other

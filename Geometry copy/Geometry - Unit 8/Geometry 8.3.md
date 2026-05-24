@@ -1,0 +1,4 @@
+- There are 3 ways to prove that a pair of triangles is similar, including:
+- AA ~ Thm. - two pair of corresponding angles are congruent
+- SAS ~ Thm. - the included pair of corresponding angles are congruent; the corresponding sides that include those angles are in proportion
+- SSS ~ Thm. - all three pairs of corresponding sides are in proportion 

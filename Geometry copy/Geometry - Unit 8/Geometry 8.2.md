@@ -1,0 +1,1 @@
+- Even though "AAA" did not prove congruency, it does guarantee similarity. In words, the AA~Thm. states "If two angles of one triangle are congruent to two angles of another triangle, then the triangles are similar"

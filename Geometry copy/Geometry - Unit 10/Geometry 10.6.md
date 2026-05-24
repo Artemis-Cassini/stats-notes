@@ -1,0 +1,2 @@
+- If two chords intersect inside a circle, then the product of the lengths of the segments of one chord is equal to the product of the lengths of the segments of the other chord.
+- If two secant segments intersect outside a circle, then the product of the lengths of one secant segment and its external segment equals the product of the other secant segment and its external segment.

@@ -1,0 +1,3 @@
+1. Conditional statements, otherwise know as **if-then statements** always contain a **hypothesis** (the if part) and a **conclusion** (the then part)
+2. The converse of a conditional statement is forced by interchanging the hypothesis and the conclusion. It does not have to be true
+3. When a conditional statement and its converse are both true, then they can be combined into one statement called an **"if and only if"** or "iff", or **biconditional** statement

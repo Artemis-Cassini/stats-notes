@@ -1,0 +1,4 @@
+- A quadrilateral is a parallelogram *iff* both pairs of opposite sides are //
+- Opposite sides of a quad are congruent
+- Opposite angles of a quad are congruent 
+- The diagonals of a quad bisect each other

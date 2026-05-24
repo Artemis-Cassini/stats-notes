@@ -1,0 +1,3 @@
+- Two events are said to be **independent** if the results of the first event do not affect the results of the second event
+- If two events are independent events, then the probability of the **intersection** of the two events
+- The probability of the **union** of two events A and B is...

@@ -1,0 +1,7 @@
+- A **central angle** is an angle with its vertex located at the center of a circle.
+- A **minor arc** has a measure between 0 degrees and 180 degrees. Only two letters are needed to name minor arcs
+- A **major arc** has a measure between 180 degrees and 360 degrees. Three letters are needed to name major arcs
+- A **semicircle** has a measure of exactly 180 degrees. Three letters are needed to name semicircles
+- The **measure of an arc** is given in **degrees**
+- The measure of an arc is equal to the measure of its central angle 
+- To have congruent arcs they must be in the same circle or two congruent circles, or the arcs must have the same measure

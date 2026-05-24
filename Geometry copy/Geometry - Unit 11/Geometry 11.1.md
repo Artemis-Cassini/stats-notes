@@ -1,0 +1,4 @@
+- The **measure of an arc** is measured in degrees and is equal to the measure of the central angle it intercepts
+- The **length of an arc** is measured in cm, inches, feet, etc and it the distance found by traveling from one point on a circle to another by following the arc of the circle
+- The length of an arc does depend on the size of the circles
+- In order to have congruent arcs, the following two conditions must be met, the arcs must have the same measure and the arcs must be in the same circle or in two congruent circles

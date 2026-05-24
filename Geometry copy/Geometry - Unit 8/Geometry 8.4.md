@@ -1,0 +1,3 @@
+- **Triangle Proportionality Theorem** - If a line is parallel to one side of a triangle and it intersects the other two sides, then it divides the two sides proportionally
+- If three parallel lines intersect two transversals, then they divide the transversals proportionally
+- **Triangle Angle Bisector Theorem** - If a ray bisects an angle of a triangle, then it divides the opposite side into segments whose lengths are proportional to the lengths of the other two sides 

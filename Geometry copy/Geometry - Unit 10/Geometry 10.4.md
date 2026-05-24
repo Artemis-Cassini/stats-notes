@@ -1,0 +1,4 @@
+- An **inscribed angle** is an angle with its vertex located on a circle and whoes sides contain chords of the circle
+- The measure of a central angle is equal to the measure of the arc it intercepts
+- The measure of an inscribed angle is equal to half the measure of the arc it intercepts
+- A quadrilateral can be inscribed in a circle *iff* its opposite angles are supplementary 

@@ -1,0 +1,16 @@
+- **Circle** - The set of all points in a plane at a given distance from a given point is a circle. P is the set of all points in a plane that are 2 units from P. The given point P is the center of the circle.
+- **Radius** - The given distance is the radius of the circle. A radius is also any segment joining the center of the circle to a point on the circle. (The plural of radius is radii.)
+- **Chord** - A segment whose endpoints lie on a circle is a chord.
+- **Diameter** - A chord that contains the center of a circle is a diameter. A diameter is also a length equal to twice a radius.
+- **Secant** - A line that contains a chord of a circle is a secant.
+- **Tangent** - A line in the plane of a circle that intersects the circle in exactly one point is a tangent. The point of tangency is the point of intersection.
+- **Sphere** - The set of all points in space at a given distance from a given point is a sphere.
+- **Congruent Circles** - Circles (or spheres) are congruent if they have congruent radii.
+- **Congruent Spheres** - They have congruent radii.
+- **Concentric Circles** - Circles that lie in the same plane and have the same center are concentric.
+- **Concentric Spheres** - Concentric spheres have the same center.
+- **Inscribed Polygon** - A polygon is inscribed in a circle if each vertex of the polygon lies on the circle.
+- **Circumscribed Circle** - A circle is circumscribed about a polygon if each vertex of the polygon lies on the circle.
+- Tangent segments to a circle from the same point outside a circle are congruent 
+- A line that is tangent to two coplanar circles is called a common tangent (because it's shared by the two circles)
+- Two coplaner circles are tangent to each other if the circles intersect in exactly one point.

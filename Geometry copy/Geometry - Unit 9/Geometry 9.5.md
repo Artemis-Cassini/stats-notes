@@ -1,0 +1,4 @@
+- **Inverse tangent, inverse sine, and inverse cosine** can be used to find the measure of an acute angle of a right triangle
+- **S**illy **O**ld **H**ens, **C**hased **A** **H**orse, **T**owards **O**llie's **A**irplane. 
+- An angle is an **angle of elevation** *iff* it is an upward line of sight from a horizontal line
+- An angle is an **angle of depression** *iff* it is a downward line of sight from a horizontal line

@@ -1,0 +1,2 @@
+1. In a plane, if a transversal is perpendicular to one of two parallel lines, then it is perpendicular to the other one also.
+2. The distance from a point to a line is the length of a segment that is perpendicular from the point to the line

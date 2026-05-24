@@ -1,0 +1,1 @@
+- Triangle inequality theorem - the sum of the lengths of any two sides of a triangle is greater than the length of the third side

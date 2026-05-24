@@ -1,0 +1,2 @@
+- Because all 30-60-90 right triangles are similar (by the AA ~ Thm.) we can use shortcut formulas for finding the lengths of the missing sides of a 30-60-90 right triangle
+- Because all 45-45-90 right triangles are similar (by the AA ~ Thm.) we can use a shortcut formula for finding the lengths of the missing sides of a 45-45-90 right triangle

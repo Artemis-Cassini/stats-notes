@@ -1,0 +1,4 @@
+- When one side of a triangle is the diameter of a circle, and the third vertex of the triangle likes on the circle, then the triangle will always be a right triangle. This means that angle C is a right angle
+- The length in segment CD in the proportion shown is called the **geometric mean**
+- Segment CD is a special **altitude** of the original right triangle ABC. (Segment CD is special because it is a segment that is constructed from the right angle perpendicular to the hypotenuse)
+- Segment AD and segment BD are segments that together form the hypotenuse

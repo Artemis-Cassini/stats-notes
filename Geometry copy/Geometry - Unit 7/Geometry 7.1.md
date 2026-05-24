@@ -1,0 +1,4 @@
+- The sum of the measures of the *interior* angles of *any* triangle is 180
+- The sum of the measures of the *interior* angles of *any* quadrilateral is 360
+- A polygon is a regular polygon *iff* it is both equilateral and equiangular 
+- The sum of the measures of one set of exterior angles of any convex polygon is 360

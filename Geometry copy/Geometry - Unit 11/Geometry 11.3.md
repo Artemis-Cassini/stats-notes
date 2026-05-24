@@ -1,0 +1,3 @@
+- The **center of a regular polygon** is the center of the circle that circumscribes the regular polygon
+- The **radius of a regular polygon** is the radius of the circle that circumscribes the regular polygon
+- The distance from the center of the regular polygon to the midpoint of any side of the regular polygon is called the **apothem**

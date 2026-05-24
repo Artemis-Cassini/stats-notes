@@ -1,0 +1,3 @@
+- **Conditional Probability** is the probability that an event will occur given that another event has already occurred
+- "The probability of A given that B has already occurred" can be written using mathematical symbolism as P(A|B)
+- Two events are said to be **independent** if the results of the first event do not affect the results of the second event

@@ -1,0 +1,16 @@
+- An **altitude of a prism** is a perpendicular segment from one base to the plane of the other base
+- The **height of a prism** is the length of the altitude
+- A right prism's lateral faces are rectangles
+- If a prism's lateral faces are not rectangles (but simply parallelograms), then the prism is an **oblique prism**
+- "The **volume of a right prism** equals the area of a base (B) times the height of the prism (H)"
+- Volume is measured in cubic units, such as cm^3, ft^3, etc
+- A cylinder is not a polyhedron
+- A **cylinder** is a solid composed of two congruent circles in parallel planes, their interiors, and all the line segments parallel to the axis with endpoints on the two circles
+- The segment connecting the centers of the circles is called the **axis of the cylinder**
+- The **radius of the cylinder** is the radius of the base
+- If the axis of a cylinder is perpendicular to the bases, then the cylinder is a right cylinder
+- If a cylinder is not a right cylinder, then it is an **oblique cylinder**
+- The **altitude of a cylinder** is a perpendicular segment from the plane of one base to the plane of the other
+- The **height of a cylinder** is the length of an altitude
+- The **volume of a right cylinder** equals the area of a base times the height of the cylinder
+- Volume is measured in cubic units, such as m^3, in^3, etc

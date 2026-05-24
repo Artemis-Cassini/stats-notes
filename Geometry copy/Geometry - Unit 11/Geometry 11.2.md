@@ -1,0 +1,2 @@
+- A **sector of a circle** is the region bounded by two radii and the arc they intercept
+- The **area of a sector** is measured in cm^2, inches^2, feet^2, etc. and is a fractional part of the area of a circle

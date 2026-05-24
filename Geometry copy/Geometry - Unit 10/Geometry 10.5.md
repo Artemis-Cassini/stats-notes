@@ -1,0 +1,2 @@
+- If two chords intersect inside a circle, then the measure of one of the verticle angles formed is equal to one-half of the sum of the measures of the intercepted arcs.
+- If two rays intersect outside a circle, then the measure of the angle formed is equal to one-half of the differencce of the measures of the intercepted arcs.

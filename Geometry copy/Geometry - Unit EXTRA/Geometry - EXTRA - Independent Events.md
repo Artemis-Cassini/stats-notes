@@ -1,0 +1,2 @@
+- Two events are said to be **independent** if the results of the first event do not affect the results of the second event
+- If two events are independent events, then this multiplication rule can be used to find the probability of the intersection of the two events

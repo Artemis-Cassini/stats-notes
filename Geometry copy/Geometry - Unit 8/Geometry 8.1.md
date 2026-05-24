@@ -1,0 +1,8 @@
+- Two polygons are **similar** *iff* their vertices can be paired such that / Corresponding angles are congruent / Corresponding sides are in proportion
+- When the ratio of any two corresponding lengths in two similar polygons is simplified, it is called the **scale factor**
+- In two similar polygons the ratio of corresponding lengths = SF
+- The ratio of the two perimeters of two similar polygons is equal to the scale factor
+- The ratio of the areas of two similar polygons is equal to the scale factor squared
+- In two similar polygons / Ratio of lengths = SF / Ratio of perimeters = SF / Ratio of areas = (SF)^2
+- The units for length could be inches, feet, centimeters, meters, etc.
+- The units for area could be inches^2, feet^2, cm^2, m^2, etc.

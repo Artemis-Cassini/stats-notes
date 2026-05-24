@@ -1,0 +1,8 @@
+- A **ratio** is a comparison of two numbers. Examples 2/3 or 2:3 or 2 to 3
+- The measure of an interior angle to the measure of an exterior angle
+- A proportion is an equation stating that two ratios are equal to each other
+- The shortcut method can be used to solve a proportion only IF the variable has an understood one as a coefficient
+- The **Means-Extremes Property** (or cross-multiplying) can be used to solve any proportion 
+- Two polygons are **similar** *iff* their vertices can be paired such that corresponding angles are congruent, and corresponding sides are in-proportion 
+- Proportions can be used to find the missing sides of similar polygons - if the proportions are set up correctly! This may be easiest to visualize with right triangles. Look at the right triangles below.
+- An **isometry** is a transformation that preserves size and shape. Dilation is not isometry

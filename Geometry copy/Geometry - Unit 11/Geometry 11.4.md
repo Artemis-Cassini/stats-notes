@@ -1,0 +1,10 @@
+- A polyhedron is a 3-dimensional solid, enclosed by flat polygonal surfaces
+- A **prism** is a polyhedron with 2 bases that are congruent parallel polygons and whose lateral faces are parallelograms that are formed by segments connecting the corresponding vertices of the bases
+- A **lateral edge** of a prism is a segment that connects the corresponding vertices of the two parallel bases
+- The **lateral faces** of a prism are the faces that are not the bases
+- If each lateral face in a prism is a rectangle, then the prism is called a right prism
+- A **cross section** is the intersection of a plane and a 3-dimensional solid
+- A **pyramid** is a polyhedron with one base and whose lateral faces are triangles that are formed by segments connecting the vertices of the base to *the vertex*
+- A **lateral edge** of a pyramid is a segment that connects the vertices of the base to *the vertex*
+- The **lateral faces** of a pyramid are the faces that are not in the base
+- A pyramid is a **regular pyramid** *iff* it meets these conditions. The base is a regular polygon, all lateral edges are congruent, each lateral face is an isosceles triangle

@@ -1,0 +1,4 @@
+- The sides of right triangles can be identified from the viewpoint of either of the acute angles. Label each of the sides of these right triangles based on the viewpoint of angle (variable)
+- Trigonometry is the study of the ratios of the lengths of the sides of right triangles
+- The special ratio of the lengths of the legs of a right triangle is called **the tangent ratio**
+- The formula for **tangent** can be used to find the length of a missing leg of a right triangle - if the length of one leg and the measure of one acute angle is givenk

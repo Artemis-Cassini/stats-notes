@@ -1,0 +1,4 @@
+- The segment that connects the midpoint of any two sides of a triangle is called a midsegment of a triangle
+- A midsegment, or a segment that connects the midpoints of two sides of a triangle, is parallel to the third side and half as long as the third side
+- The median of a triangle divides the triangle into two smaller triangles with equal areas
+- The two triangles are not congruent - except in special circumstances

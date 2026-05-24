@@ -1,0 +1,3 @@
+- In the same circle, or in congruent circles, two minor arcs are congruent *iff* their corresponding central angles are congruent
+- In the same circle (or in congruent circles) two minor arcs are congruent *iff* their corresponding chords are congruent 
+- If the same circle (or in congruent circles) two chords are congruent *iff* they are equidistant from the center of the circle

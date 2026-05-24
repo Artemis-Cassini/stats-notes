@@ -1,0 +1,5 @@
+- A rectangle is a quadrilateral with four right angles.
+- A rhombus is a quadrilateral with four congruent sides. 
+- A square is a quadrilateral with four right angles and four congruent sides.
+- The circumcenter of a right triangle is located on the midpoint of the hypotenuse.
+- Segments connecting the circumcenter to each of the vertices, they are congruent to each other because they are all radii of the same circle

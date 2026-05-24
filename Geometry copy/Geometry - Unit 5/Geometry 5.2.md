@@ -1,0 +1,2 @@
+1. Two triangles are congruent *iff* their vertices can be matched up such that the corresponding parts of the triangles are congruent
+2. If two angles of one triangle are congruent to two angles of another triangle, the the thirs pair of angles are congruent 
