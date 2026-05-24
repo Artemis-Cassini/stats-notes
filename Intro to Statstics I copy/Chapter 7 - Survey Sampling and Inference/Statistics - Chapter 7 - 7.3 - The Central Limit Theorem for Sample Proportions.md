@@ -1,0 +1,1 @@
+- The mathematical theorem called the **Central Limit Theorem (CLT)** gives us a very good approximation of the sampling distribution without our needing to do simulations

@@ -1,0 +1,2 @@
+- When comparing two populations, it is important to pay attention to whether the data sampled from the populations are two **independent samples** or are, in fact, one sample of related pairs (paired samples)
+- With **paired (dependent) samples**, if you know the value that a subject has in one group, then you know something about the other group, too

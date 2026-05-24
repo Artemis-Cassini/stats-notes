@@ -1,0 +1,2 @@
+### The Law of Large Numbers
+- The **Law of Large Numbers** is a famous mathematical theorem that tells us that if our simulation is designed correctly, then the more trials we do, the closer we can expect our empirical probability or simulation-based probability to be to the true probability

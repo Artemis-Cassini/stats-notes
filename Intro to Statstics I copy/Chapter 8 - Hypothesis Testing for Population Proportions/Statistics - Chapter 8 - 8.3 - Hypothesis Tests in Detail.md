@@ -1,0 +1,1 @@
+- For many people, it seems a little odd that a small p-value leads to such a major action as rejecting the null hypothesis. But it is important to realize that when we see a small p-value, it means our test statistic is extreme. And an extreme test statistic means something unusual, and therefore unexpected, has happened.

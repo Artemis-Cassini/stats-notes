@@ -1,0 +1,5 @@
+[[Statistics - Chapter 5 - 5.1 - What Is Randomness?]]
+[[Statistics - Chapter 5 - 5.2 - Finding Theoretical Probabilities]]
+[[Statistics - Chapter 5 - 5.3 - Associations in Categorical Variables]]
+[[Statistics - Chapter 5 - 5.4 - Finding Empirical and Simulated Probabilities]]
+[[Statistics - Chapter 5 - Extra]]

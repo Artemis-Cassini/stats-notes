@@ -1,0 +1,2 @@
+### The Effect of Outliers
+- In technical terms, we say that the median is **resistant to outliers**; it is not affected by the size of an outlier and does not change even if a particular outlier is replaced by an even more extreme value

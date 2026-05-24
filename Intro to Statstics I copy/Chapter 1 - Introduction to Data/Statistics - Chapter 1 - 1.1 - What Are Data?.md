@@ -1,0 +1,2 @@
+- **Variation** is the more fundamental of these concepts (variation and data)
+- **Data** are observations that you or someone else (or *something* else) records

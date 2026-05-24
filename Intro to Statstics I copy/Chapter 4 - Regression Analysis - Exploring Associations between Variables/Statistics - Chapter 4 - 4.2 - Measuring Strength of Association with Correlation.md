@@ -1,0 +1,1 @@
+- The **correlation coefficient** is a number that measures the strength of the linear association between two numerical variables--for example, the relationship between people's heights and weights

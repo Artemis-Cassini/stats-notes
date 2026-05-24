@@ -1,0 +1,2 @@
+- A common method for summarizing two potentially related categorical variables is to use a two-way table. **Two-way tables** show how many times each combination of categories occurs
+- These counts are also called frequencies. A **frequency** is simply the number of times a value is observed in a data set

@@ -1,0 +1,3 @@
+- **Confidence intervals** are often reported as the estimate plus or minus some amount
+- **Margin of error** tells how far from the population value our estimate can be
+- A **confidence level** expresses our level of confidence in this interval

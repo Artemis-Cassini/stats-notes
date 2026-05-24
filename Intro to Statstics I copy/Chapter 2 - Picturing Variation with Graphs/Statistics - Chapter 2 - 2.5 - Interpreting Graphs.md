@@ -1,0 +1,2 @@
+### Misleading Graphs
+- A well-designed statistical graphic can help us discover patterns and trends and can com-municate these patterns clearly to others. However, our eyes can play tricks on us, and manipulative people can take advantage of this to use graphs to give false impressions

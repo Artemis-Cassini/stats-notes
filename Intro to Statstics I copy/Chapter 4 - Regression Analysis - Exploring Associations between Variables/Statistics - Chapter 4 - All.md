@@ -1,0 +1,5 @@
+[[Statistics - Chapter 4 - 4.1 - Visualizing Variability with a Scatterplot]]
+[[Statistics - Chapter 4 - 4.2 - Measuring Strength of Association with Correlation]]
+[[Statistics - Chapter 4 - 4.3 - Modeling Linear Trends]]
+[[Statistics - Chapter 4 - 4.4 - Evaluating the Linear Model]]
+[[Statistics - Chapter 4 - Extra]]

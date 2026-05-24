@@ -1,0 +1,12 @@
+### Key Terms
+- Hypothesis Testing
+- Null Hypothesis, H0
+- Alternative Hypothesis, Ha
+- One-Sided Hypothesis
+- Two-Sided Hypothesis
+- Significance Level, α (alpha)
+- Test Statistic
+- One-Proportion z-test Statistic
+- p-value
+- Two-Tailed p-value
+- Two-Proportion z-test

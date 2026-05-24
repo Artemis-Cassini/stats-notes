@@ -1,0 +1,4 @@
+- **Hypothesize** - Frame your statistical question as a hypothesis about the population parameter.
+- **Prepare** - Choose a test statistic and consider the data: Are the necessary conditions met to allow inference with your chosen test statistic? State any assumptions you must make if you are to proceed.
+- **Compute to Compare** - Analyze the data by stating a significance level, computing the observed test statistic, and finding the p-value. The observed value of the test statistic  compares our observed statistic with the value of the population parameter as claimed by the null hypothesis.
+- **Interpret** - Answer the statistical question by deciding whether to reject or not to reject the null hypothesis. What does this mean in the context of the data?

@@ -1,0 +1,6 @@
+[[Statistics - Chapter 3 - 3.1 - Summaries for Symmetric Distributions]]
+[[Statistics - Chapter 3 - 3.2 - What's Unusual? The Empirical Rule and z-Scores]]
+[[Statistics - Chapter 3 - 3.3 - Summaries for Skewed Distributions]]
+[[Statistics - Chapter 3 - 3.4 - Comparing Measures of Center]]
+[[Statistics - Chapter 3 - 3.5 - Using Boxplots for Displaying Summaries]]
+[[Statistics - Chapter 3 - Extra]]

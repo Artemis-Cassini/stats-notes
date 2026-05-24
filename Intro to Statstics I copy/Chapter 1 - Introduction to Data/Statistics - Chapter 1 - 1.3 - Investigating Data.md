@@ -1,0 +1,4 @@
+- **Ask Questions.** The trick here is to ask *good* questions, and you'll get better at that as you read on
+- **Consider Data.** In this stage, we consider which data are available to answer the question
+- **Analyze Data.** This is the primary topic of this book
+- **Interpret Data.** The final step is to interpret your analysis. *Interpret* is a fancy word for "answer your question"

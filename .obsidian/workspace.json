@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "0307001c17969d78",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c33aea1080ad1e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "321e0af81478e475",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro to Statstics I copy/Chapter 1 - Introduction to Data/Statistics - Chapter 1 - 1.1 - What Are Data?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Statistics - Chapter 1 - 1.1 - What Are Data?"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "76ababfe37cc325e",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd2b745fa03db0b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9fda638ab81c72d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fe0d92a2407fedfd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "17eeb46a84a1a928",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "929f54bb94943c0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "79d753d09fa5f417",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88c421c661dcce4e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Intro to Statstics I copy/Chapter 1 - Introduction to Data/Statistics - Chapter 1 - 1.1 - What Are Data?.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Statistics - Chapter 1 - 1.1 - What Are Data?"
+            }
+          },
+          {
+            "id": "ca5aa2338501e70a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Intro to Statstics I copy/Chapter 1 - Introduction to Data/Statistics - Chapter 1 - 1.1 - What Are Data?.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Statistics - Chapter 1 - 1.1 - What Are Data?"
+            }
+          },
+          {
+            "id": "2079b02bc6936b37",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e5c9e8d85e63de7e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8a5d7c8e869aa266",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Intro to Statstics I copy/Chapter 1 - Introduction to Data/Statistics - Chapter 1 - 1.1 - What Are Data?.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Statistics - Chapter 1 - 1.1 - What Are Data?"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "321e0af81478e475",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "Intro to Statstics I copy/Chapter 5 - Modeling Variation with Probability/Statistics - Chapter 5 - All.md",
+    "Intro to Statstics I copy/Chapter 9 - Inferring Population Means/Statistics - Chapter 9 - All.md",
+    "Intro to Statstics I copy/Chapter 9 - Inferring Population Means/Statistics - Chapter 9 - Extra.md",
+    "Intro to Statstics I copy/Chapter 9 - Inferring Population Means/Statistics - Chapter 9 - 9.6 - Overview of Analyzing Means.md",
+    "Intro to Statstics I copy/Chapter 9 - Inferring Population Means/Statistics - Chapter 9 - 9.5 - Comparing Two Population Means.md",
+    "Intro to Statstics I copy/Chapter 9 - Inferring Population Means/Statistics - Chapter 9 - 9.4 - Hypothesis Testing for Means.md",
+    "Intro to Statstics I copy/Chapter 9 - Inferring Population Means/Statistics - Chapter 9 - 9.3 - Answering Questions about the Mean of a Population.md",
+    "Intro to Statstics I copy/Chapter 9 - Inferring Population Means/Statistics - Chapter 9 - 9.2 - The Central Limit Theorem for Sample Means.md",
+    "Intro to Statstics I copy/Chapter 9 - Inferring Population Means/Statistics - Chapter 9 - 9.1 - Sample means of Random Samples.md",
+    "Intro to Statstics I copy/Chapter 6 - Modeling Random Events - The Normal and Binomial Models/Statistics - Chapter 6 - Extra.md",
+    "Intro to Statstics I copy/Chapter 6 - Modeling Random Events - The Normal and Binomial Models/Statistics - Chapter 6 - All.md",
+    "Intro to Statstics I copy/Chapter 6 - Modeling Random Events - The Normal and Binomial Models/Statistics - Chapter 6 - 6.3 -  The Binomial Model.md",
+    "Intro to Statstics I copy/Chapter 6 - Modeling Random Events - The Normal and Binomial Models/Statistics - Chapter 6 - 6.2 - The Normal Model.md",
+    "Intro to Statstics I copy/Chapter 6 - Modeling Random Events - The Normal and Binomial Models/Statistics - Chapter 6 - 6.1 - Probability Distributions Are Models of Random Experiments.md",
+    "Intro to Statstics I copy/Chapter 8 - Hypothesis Testing for Population Proportions/Statistics - Chapter 8 - Extra.md",
+    "Intro to Statstics I copy/Chapter 8 - Hypothesis Testing for Population Proportions/Statistics - Chapter 8 - All.md",
+    "Intro to Statstics I copy/Chapter 8 - Hypothesis Testing for Population Proportions/Statistics - Chapter 8 - 8.4 - Comparing Proportions from Two Populations.md",
+    "Intro to Statstics I copy/Chapter 8 - Hypothesis Testing for Population Proportions/Statistics - Chapter 8 - 8.3 - Hypothesis Tests in Detail.md",
+    "Intro to Statstics I copy/Chapter 8 - Hypothesis Testing for Population Proportions/Statistics - Chapter 8 - 8.2 - Hypothesis Testing in Four Steps.md",
+    "Intro to Statstics I copy/Chapter 8 - Hypothesis Testing for Population Proportions/Statistics - Chapter 8 - 8.1 - The Essential Ingredients of Hypothesis Testing.md",
+    "Intro to Statstics I copy/Chapter 7 - Survey Sampling and Inference/Statistics - Chapter 7 - Extra.md",
+    "Intro to Statstics I copy/Chapter 7 - Survey Sampling and Inference/Statistics - Chapter 7 - All.md",
+    "Intro to Statstics I copy/Chapter 7 - Survey Sampling and Inference/Statistics - Chapter 7 - 7.5 - Comparing Two Population Proportions with Confidence.md",
+    "Intro to Statstics I copy/Chapter 7 - Survey Sampling and Inference/Statistics - Chapter 7 - 7.4 - Estimating the Population Proportion with Confidence Intervals.md",
+    "Intro to Statstics I copy/Chapter 7 - Survey Sampling and Inference/Statistics - Chapter 7 - 7.3 - The Central Limit Theorem for Sample Proportions.md",
+    "Intro to Statstics I copy/Chapter 9 - Inferring Population Means",
+    "Intro to Statstics I copy/Chapter 8 - Hypothesis Testing for Population Proportions",
+    "Intro to Statstics I copy/Chapter 7 - Survey Sampling and Inference",
+    "Intro to Statstics I copy/Chapter 6 - Modeling Random Events - The Normal and Binomial Models",
+    "Intro to Statstics I copy/Chapter 5 - Modeling Variation with Probability",
+    "Intro to Statstics I copy/Chapter 4 - Regression Analysis - Exploring Associations between Variables",
+    "Intro to Statstics I copy/Chapter 3 - Numerical Summaries of Center and Variation",
+    "Intro to Statstics I copy/Chapter 2 - Picturing Variation with Graphs",
+    "Intro to Statstics I copy/Chapter 1 - Introduction to Data",
+    "Intro to Statstics I copy"
+  ]
+}

@@ -1,0 +1,6 @@
+[[Statistics - Chapter 2 - 2.1 - Visualizing Variation in Numerical Data]]
+[[Statistics - Chapter 2 - 2.2 - Summarizing Important Features of a Numerical Distribution]]
+[[Statistics - Chapter 2 - 2.3 - Visualizing Variation in Categorical Variables]]
+[[Statistics - Chapter 2 - 2.4 - Summarizing Categorical Distributions]]
+[[Statistics - Chapter 2 - 2.5 - Interpreting Graphs]]
+[[Statistics - Chapter 2 - Extra]]

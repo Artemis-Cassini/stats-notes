@@ -1,0 +1,3 @@
+- The hypothesis tests and confidence intervals that we will use for estimating and testing the mean are based on a statistic called the **t-statistic**
+- The **t-distribution** follows as the **t-statistic**
+- The t-distribution's shape depends on only one parameter, called the **degrees of freedom (df)**

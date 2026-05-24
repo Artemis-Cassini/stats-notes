@@ -1,0 +1,6 @@
+[[Statistics - Chapter 1 - 1.1 - What Are Data?]]
+[[Statistics - Chapter 1 - 1.2 - Classifying and Storing Data]]
+[[Statistics - Chapter 1 - 1.3 - Investigating Data]]
+[[Statistics - Chapter 1 - 1.4 - Organizing Categorical Data]]
+[[Statistics - Chapter 1 - 1.5 - Collecting Data to Understand Causality]]
+[[Statistics - Chapter 1 - Chapter Review]]

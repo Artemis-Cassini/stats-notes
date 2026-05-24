@@ -1,0 +1,1 @@
+- The estimator for the **two-proportion z-test** is p̂1 - p̂2 because we are estimating the difference p1-p2

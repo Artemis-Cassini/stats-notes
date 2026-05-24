@@ -1,0 +1,6 @@
+[[Statistics - Chapter 7 - 7.1 - Learning about the World through Surveys]]
+[[Statistics - Chapter 7 - 7.2 - Measuring the Quality of a Survey]]
+[[Statistics - Chapter 7 - 7.3 - The Central Limit Theorem for Sample Proportions]]
+[[Statistics - Chapter 7 - 7.4 - Estimating the Population Proportion with Confidence Intervals]]
+[[Statistics - Chapter 7 - 7.5 - Comparing Two Population Proportions with Confidence]]
+[[Statistics - Chapter 7 - Extra]]

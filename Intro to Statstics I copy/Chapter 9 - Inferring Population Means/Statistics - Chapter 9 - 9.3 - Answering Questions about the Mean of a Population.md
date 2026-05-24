@@ -1,0 +1,2 @@
+- **Confidence intervals** are a technique for communicating an estimate of the mean, along with a measure of the uncertainty in our estimate
+- Not all confidence intervals do an equally good job; the “job performance” of a confidence interval is therefore measured with something called the **confidence level**

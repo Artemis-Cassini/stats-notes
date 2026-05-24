@@ -1,0 +1,39 @@
+### Key Terms
+- Statistics
+- Variation
+- Data
+- Variables
+- Data Set
+- Sample
+- Population
+- Numerical Variable
+- Categorical Variable
+- Stacked Data
+- Unstacked Data
+- Two-Way Table
+- Frequency
+- Rate
+- Causality 
+- Treatment Variable
+- Outcome Variable (or response variable)
+- Treatment Group
+- Comparison Group (or control group)
+- Anecdotes
+- Placebo
+- Placebo Effect
+- Observational Study 
+- Association
+- Confounding Variable (or confounding factor)
+- Controlled Experiment
+- Random Assignment
+- Bias
+- Blind
+- Double-Blind
+- Random Selection
+
+### Learning Objectives
+- Be able to distinguish between numerical and categorical vari­ables and understand methods for coding categorical variables.
+- Know how to find and use rates (including percentages) and understand when and why they are more useful than counts for describing and comparing groups
+- Understand when it is possible to infer a cause-­and-­effect rela­tionship from a research study and when it is not.
+- Be able to explain how confounding variables prevent us from inferring causation and suggest confounding variables that are likely to occur in some situations.
+- Be able to distinguish between observational studies and con­trolled experiments.

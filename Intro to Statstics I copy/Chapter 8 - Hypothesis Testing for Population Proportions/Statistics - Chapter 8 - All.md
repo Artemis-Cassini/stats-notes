@@ -1,0 +1,5 @@
+[[Statistics - Chapter 8 - 8.1 - The Essential Ingredients of Hypothesis Testing]]
+[[Statistics - Chapter 8 - 8.2 - Hypothesis Testing in Four Steps]]
+[[Statistics - Chapter 8 - 8.3 - Hypothesis Tests in Detail]]
+[[Statistics - Chapter 8 - 8.4 - Comparing Proportions from Two Populations]]
+[[Statistics - Chapter 8 - Extra]]

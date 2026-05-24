@@ -1,0 +1,1 @@
+- Statistical questions that make comparisons can be very powerful

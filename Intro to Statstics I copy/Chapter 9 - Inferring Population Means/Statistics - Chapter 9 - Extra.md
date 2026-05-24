@@ -1,0 +1,14 @@
+### Key Terms
+- Bias
+- Precision
+- Sampling Distribution
+- Unbiased Estimator
+- Standard Error
+- Central Limit Theorem (CLT)
+- *t*-Statistic
+- *t*-Distribution
+- Degrees of Freedom (df)
+- Confidence Intervals
+- Confidence Level
+- Independent Samples
+- Paired (dependent) Samples
