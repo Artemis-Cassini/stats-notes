@@ -1,0 +1,1 @@
+- A floating-point literal using **scientific notation** is written using an e preceding the power-of-10 exponent, as in 6.02e23 to represent 6.02x10^23

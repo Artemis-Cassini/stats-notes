@@ -1,0 +1,1 @@
+- The struct construct's power is evident when used with functions. A struct can be used to return multiple values. Although ConvHrMin() has two output values, the struct type allows the function to return a single item, avoiding a less-clear approach using two pass by reference parameters.

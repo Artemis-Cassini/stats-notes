@@ -1,0 +1,4 @@
+- A **single-step compilation** approach in which all source files are compiled at the same time to create the executable
+- As programs become larger and the number of source files increases, the time required to recompile and link all source files can become very long - often requiring minutes to hours. Instead of compiling an executable using a single step, a **modular compilation** approach can be used that separates the compiling and linking steps within the compilation process
+- An **object file** contains machine instructions for the compiled code along with placeholders, often referred to as references, for calls to functions or accesses to variables or classes defined in other source files or libraries 
+- After each source file has been compiled, the **linker** will create the final executable by **linking** together the object files and libraries 

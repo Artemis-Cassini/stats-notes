@@ -1,0 +1,2 @@
+### Detecting Ranges using if-elseif-else
+- An if-elseif-else structure can detect number ranges with each branch performing a different action for each range. Each expression only needs to indicate the upper range part; if execution reaches an expression, the lower range part is implicit from the previous expressions being false.

@@ -1,0 +1,1 @@
+- **Incremental development** is the process of writing, compiling, and testing a small amount of code, then writing, compiling, and testing a small amount more (an incremental amount), and so on

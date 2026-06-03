@@ -1,0 +1,1 @@
+- Instead, a vector's size can be set or changed while a program executes using **resize(N)**

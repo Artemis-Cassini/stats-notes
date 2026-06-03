@@ -1,0 +1,2 @@
+- An **overflow** occurs when the value being assigned to a variable is greater than the maximum value the variable can store
+- The compiler may not report a syntax error (the syntax is correct), but may output a **compiler warning** 

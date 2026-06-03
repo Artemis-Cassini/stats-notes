@@ -1,0 +1,2 @@
+- *Arrays* - declared as `int myList[10]`, accessed as `myList[i]`.
+- *Vectors* - declared as `vector<int> myList(10)`, accessed as `myList.at(i)` 

@@ -1,0 +1,2 @@
+- The **#define** directive, of the form #define MACROIDENTIFIER replacement, instructs the processor to replace any occurrence of MACROIDENTIFIER in the subsequent program code by the replacement text.
+- This is sometimes called a **macro**

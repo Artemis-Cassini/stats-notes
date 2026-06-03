@@ -1,0 +1,5 @@
+-  For large programs, programmers often utilize **project management tools** to automate the compilation and linking process
+- **make** is one project management tool that is commonly used on Unix and Linux computer systems
+- The make utility uses a **makefile** to recompile and link a program whenever changes are made to the source or header files
+- **Make rules** are used to specify dependencies between a target file (e.g., object files and executable) and a set of prerequisite files that are needed to generate the target file (e.g., source and header files)
+- A make rule can include one or more commands -- referred to as **make recipe** - that will be executed in order to generate the target file. The following shows the general form for a make rule

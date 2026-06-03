@@ -1,0 +1,2 @@
+-   
+Floating-point numbers should not be compared using == . Ex: Avoid float1 == float2. Reason: Some floating-point numbers cannot be exactly represented in the limited available memory bits like 64 bits. Floating-point numbers expected to be equal may be close but not exactly equal.

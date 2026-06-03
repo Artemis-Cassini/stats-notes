@@ -1,0 +1,1 @@
+- An initialized variable whose value cannot change is called a **constant variable**

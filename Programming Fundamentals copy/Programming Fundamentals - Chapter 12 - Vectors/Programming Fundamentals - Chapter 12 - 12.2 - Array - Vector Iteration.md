@@ -1,0 +1,1 @@
+- The following activities can help one become comfortable with iterating through arrays or vectors, before learning to code such iteration.

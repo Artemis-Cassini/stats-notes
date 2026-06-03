@@ -1,0 +1,4 @@
+- **Command-line arguments** are values entered by a user when running a program from a command line
+- When a program is run, the system passes an int parameter **argc** to main(), ndicating the number of command-line arguments (argc is short for argument count)
+- When a program is run, the system passes a second parameter **argv** to main() (argv is short for argument vector), defined as an array of strings: char* argv[]. argv[] consists of one string for each command-line argument, with argv[0] being the program name
+- A **usage message** lists a program's expected command-line arguments

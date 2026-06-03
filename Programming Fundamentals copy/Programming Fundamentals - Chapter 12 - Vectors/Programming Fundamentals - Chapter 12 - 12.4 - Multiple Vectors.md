@@ -1,0 +1,1 @@
+- Programmers commonly use multiple same-sized vectors to store related lists. The program below maintains a list of country names, and another list indicating the annual GDP for each corresponding country.

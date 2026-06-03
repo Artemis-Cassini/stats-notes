@@ -1,0 +1,3 @@
+- Each programming team, whether a company, open source project, or a classroom, may have **style guidelines** for writing code.
+- **K&R style** for braces and indents is named after C language creators Kernighan and Ritchie
+- **Stroustup style** for braces and indents is named after C++ language creator, Bjarne Stroustup

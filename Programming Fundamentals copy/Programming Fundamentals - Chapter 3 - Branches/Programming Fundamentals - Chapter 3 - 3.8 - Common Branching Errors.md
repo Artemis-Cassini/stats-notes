@@ -1,0 +1,2 @@
+### Common Error: Missing Braces
+- When a branch has a single statement, the braces are optional, but good practice _always_ uses the braces. Always using braces even when a branch only has one statement prevents the common error of mistakenly thinking a statement is part of a branch.

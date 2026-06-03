@@ -1,0 +1,1 @@
+- A **constructor initializer list** is an alternative approach for initializing data members in a constructor, coming after a colon and consisting of a comma-separated list of variableName(initValue) items

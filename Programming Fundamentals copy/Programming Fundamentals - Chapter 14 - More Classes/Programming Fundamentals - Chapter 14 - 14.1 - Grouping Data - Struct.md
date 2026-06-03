@@ -1,0 +1,3 @@
+- The **struct** construct defines a new type, which can be used to declare a variable with subitems
+- Each struct subitem is called a **data member**
+- For a declared variable, each struct data member can be accessed using ".", known as a **member access** operator, sometimes called **dot notation**

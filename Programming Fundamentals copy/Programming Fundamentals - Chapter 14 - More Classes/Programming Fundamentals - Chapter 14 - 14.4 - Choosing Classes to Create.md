@@ -1,0 +1,1 @@
+- Creating a program may start by a programmer deciding what “things” exist, and what each thing contains and does

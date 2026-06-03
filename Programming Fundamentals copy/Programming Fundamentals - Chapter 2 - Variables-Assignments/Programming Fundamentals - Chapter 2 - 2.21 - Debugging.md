@@ -1,0 +1,2 @@
+- **Debugging** is the process of determining and fixing the cause of a problem in a computer program
+- **Troubleshooting** is another word for debugging

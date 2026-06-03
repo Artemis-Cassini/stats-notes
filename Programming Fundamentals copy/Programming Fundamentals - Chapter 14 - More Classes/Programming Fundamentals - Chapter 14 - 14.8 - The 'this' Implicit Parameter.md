@@ -1,0 +1,3 @@
+### Implicit Parameter
+- The object variable before the function name is known as an **implicit parameter** of the member function because the compiler converts the call syntax `object.Function(...)` into a function call with a pointer to the object implicitly passed as a parameter. Ex: `Function(object, ...)`.
+- Within a member function, the implicitly-passed object pointer is accessible via the name **this**

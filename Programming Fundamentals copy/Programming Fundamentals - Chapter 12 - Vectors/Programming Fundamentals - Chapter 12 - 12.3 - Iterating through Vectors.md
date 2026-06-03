@@ -1,0 +1,2 @@
+### Iterating through Vectors using Loops
+- Iterating through vectors using loops is commonplace and is an important programming skill to master. Because vector indices are numbered 0 to N - 1 rather than 1 to N, programmers commonly use this for loop structure

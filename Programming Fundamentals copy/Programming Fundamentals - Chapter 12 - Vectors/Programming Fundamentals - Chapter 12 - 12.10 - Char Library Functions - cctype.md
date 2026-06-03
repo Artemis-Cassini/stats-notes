@@ -1,0 +1,1 @@
+- C++ provides common functions for working with characters, presented in the cctype library. The first c indicates the library is a C language standard library, and ctype is short for "character type". To use those functions, the programmer adds the following at the top of a file: `#include <cctype>`
