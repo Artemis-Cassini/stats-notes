@@ -1,0 +1,2 @@
+- A **class template** is a class definition having a special type parameter that may be used in place of types in the class
+- That type is known as a **template parameter** and can be used throughout the class, such as for parameter types, function return types, or local variable types

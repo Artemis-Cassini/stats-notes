@@ -1,0 +1,2 @@
+- **Swapping** two variables x and y means to assign y’s value to x, and x’s value to y
+- A **temporary variable** is a variable used briefly to store a value

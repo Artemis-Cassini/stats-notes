@@ -1,0 +1,1 @@
+- A catch block that catches the `exception` type can catch exceptions of any type

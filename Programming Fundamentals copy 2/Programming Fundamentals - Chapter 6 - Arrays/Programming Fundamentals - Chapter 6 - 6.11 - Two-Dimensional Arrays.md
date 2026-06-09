@@ -1,0 +1,1 @@
+- The compiler maps two-dimensional array elements to one-dimensional memory, each row following the previous row, known as **row-major order**

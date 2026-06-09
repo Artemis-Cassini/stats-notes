@@ -1,0 +1,1 @@
+- A program may try to open a file that does not exist

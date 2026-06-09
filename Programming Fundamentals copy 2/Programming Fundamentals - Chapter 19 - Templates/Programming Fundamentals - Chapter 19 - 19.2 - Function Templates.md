@@ -1,0 +1,2 @@
+- A **function template** is a function definition having a special type parameter that may be used in place of types in the function.
+- That type is known as a **type parameter** and can be used throughout the function for any parameter types, return types, or local variable types

@@ -1,0 +1,2 @@
+- An **enumeration type** (enum) declares a name for a new type and possible values for that type
+- The example illustrates the idea of a **state machine** that is sometimes used in programs, especially programs that interact with physical objects, wherein the program moves among particular situations (“states”) depending on input

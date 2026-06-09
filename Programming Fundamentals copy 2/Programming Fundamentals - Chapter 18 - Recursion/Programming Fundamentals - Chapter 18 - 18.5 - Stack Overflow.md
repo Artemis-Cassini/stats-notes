@@ -1,0 +1,2 @@
+- Each function call places a new **stack frame** on the stack, for local parameters, local variables, and more function items
+- Deep recursion could fill the stack region and cause a **stack overflow**, meaning a stack frame extends beyond the memory region allocated for stack

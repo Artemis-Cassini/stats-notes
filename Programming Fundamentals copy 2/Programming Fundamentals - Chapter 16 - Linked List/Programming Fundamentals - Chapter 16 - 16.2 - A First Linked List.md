@@ -1,0 +1,1 @@
+- A class is defined to represent each list item, known as a **list node**

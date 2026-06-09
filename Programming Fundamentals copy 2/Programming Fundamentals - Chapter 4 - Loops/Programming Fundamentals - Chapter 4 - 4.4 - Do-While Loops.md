@@ -1,0 +1,1 @@
+- A **do-while loop** is a loop construct that first executes the loop body's statements, then checks the loop condition.

@@ -1,0 +1,4 @@
+- An **array** is a special variable having one name, but sorting a list of data items, with each item being directly accessible
+- Some languages use a construct similar to an array called a **vector**
+- Each item in an array is known as an **element**
+- In an array, each element’s location number is called the **index**

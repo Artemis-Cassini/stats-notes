@@ -1,0 +1,1 @@
+- A program may need to modify elements while iterating through an array. The program below uses a loop to convert any negative array element value to 0.

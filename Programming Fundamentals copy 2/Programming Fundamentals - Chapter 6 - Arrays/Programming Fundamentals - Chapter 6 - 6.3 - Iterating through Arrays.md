@@ -1,0 +1,1 @@
+- Iterating through arrays using loops is commonplace and is an important programming skill to master.

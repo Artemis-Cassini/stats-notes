@@ -1,0 +1,2 @@
+- Experienced programmers develop programs **incrementally**
+- A **FIXME comment** is commonly used to indicate program parts to be fixed or added

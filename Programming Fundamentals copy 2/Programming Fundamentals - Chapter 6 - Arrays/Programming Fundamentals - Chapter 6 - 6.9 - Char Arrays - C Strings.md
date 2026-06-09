@@ -1,0 +1,4 @@
+- A programmer can use an array to store a sequence of characters, known as a **string**
+- Char arrays were the only kinds of strings in C++'s predecessor language C, and thus are sometimes called **C strings** to distinguish them from C++’s string type
+- Because a string can be shorter than the character array, a string in a char array must end with a special character known as a **null character**
+- An array of characters ending with a null character is known as a **null-terminated string**

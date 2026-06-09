@@ -1,0 +1,2 @@
+- A **nested loop** is a loop that appears in the body of another loop
+- The nested loops are commonly referred to as the **inner loop** and **outer loop**

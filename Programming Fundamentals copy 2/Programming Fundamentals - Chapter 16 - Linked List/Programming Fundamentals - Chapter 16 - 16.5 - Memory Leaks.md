@@ -1,0 +1,2 @@
+### Memory Leak
+- A **memory leak** occurs when a program that allocates memory loses the ability to access the allocated memory, typically due to failure to properly destroy/free dynamically allocated memory

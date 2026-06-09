@@ -1,0 +1,5 @@
+[[Programming Fundamentals - Chapter 36 - 36.1 - AI]]
+[[Programming Fundamentals - Chapter 36 - 36.2 - GenAI and LLMs]]
+[[Programming Fundamentals - Chapter 36 - 36.3 - Generative AI in Action]]
+[[Programming Fundamentals - Chapter 36 - 36.4 - Building AI Systems]]
+[[Programming Fundamentals - Chapter 36 - 36.5 - Risks and Ethics in AI]]

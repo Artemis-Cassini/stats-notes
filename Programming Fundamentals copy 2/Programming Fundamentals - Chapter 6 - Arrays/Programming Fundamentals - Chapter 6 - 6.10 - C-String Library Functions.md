@@ -1,0 +1,1 @@
+- C++ provides functions for working with C strings, presented in the **cstring** library

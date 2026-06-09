@@ -1,0 +1,2 @@
+### Iterating through a string with a for loop
+- A programmer commonly iterates through a string, examining each character. The following example counts the number of letters in a string, not counting digits, symbols, etc.

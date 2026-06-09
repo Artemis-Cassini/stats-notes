@@ -1,0 +1,2 @@
+- A **break statement** in a loop causes an immediate exit of the loop
+- A **continue statement** in a loop causes an immediate jump to the loop condition check

@@ -1,0 +1,2 @@
+- **Quicksort** is a sorting algorithm that repeatedly partitions the input into low and high parts (each part unsorted), and then recursively sorts each of those parts
+- The **pivot** can be any value within the array being sorted, commonly the value of the middle array element

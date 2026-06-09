@@ -1,0 +1,1 @@
+- A class containing a dynamically allocated array that may increase in size frequently can be efficiently implemented using an array with extra capacity
