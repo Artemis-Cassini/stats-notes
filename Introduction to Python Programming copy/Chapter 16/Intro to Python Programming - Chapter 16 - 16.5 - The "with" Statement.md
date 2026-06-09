@@ -1,0 +1,2 @@
+- A **with statement** can be used to open a file, execute a block of statements, and automatically close the file when complete
+- The with statement creates a **context manager**, which manages the use of a resource, such as a file, by performing set-up and teardown operations

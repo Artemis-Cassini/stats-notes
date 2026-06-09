@@ -1,0 +1,3 @@
+- Such embedding of a list inside another list is known as **list nesting**
+- List nesting allows for a programmer to also create a **multi-dimensional data structure**, the simplest being a two-dimensional table, like a spreadsheet or tic-tac-toe board
+- A programmer can access all of the elements of nested lists by using **nested for loops**

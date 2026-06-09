@@ -1,0 +1,3 @@
+**Loop Else Construct**
+- A loop may include an else clause that executes only if the loop terminates normally and doesn't use a break statement. Thus, the complete forms of while and for loops are...
+- The **loop else** construct executes if the loop completes normally

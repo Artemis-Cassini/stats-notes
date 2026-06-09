@@ -1,0 +1,3 @@
+- A **class object** acts as a factory that creates instance objects. When created by the class object, an **instance object** is initialized via the **__init__** method
+- A **class attribute** is shared among all instances of that class. Class attributes are defined within the scope of a class
+- An **instance attribute** can be unique to each instance 

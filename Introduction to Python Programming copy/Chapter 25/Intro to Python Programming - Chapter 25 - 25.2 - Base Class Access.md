@@ -1,0 +1,1 @@
+- The search for an attribute continues all the way up the **inheritance tree**

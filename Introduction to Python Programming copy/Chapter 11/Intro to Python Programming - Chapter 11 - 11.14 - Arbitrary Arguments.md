@@ -1,0 +1,3 @@
+**Arbitrary Arguments**
+- Sometimes a programmer doesn't know how many arguments a function requires. A function definition can include an **args** parameter that collects optional positional parameters into an **arbitrary argument list** tuple
+- Adding a final functional parameter of **kwargs**, short for **keyword arguments**, creates a dictionary containing "extra" arguments not defined in the function definition. The keys of the dictionary are the parameter names specified in the function call

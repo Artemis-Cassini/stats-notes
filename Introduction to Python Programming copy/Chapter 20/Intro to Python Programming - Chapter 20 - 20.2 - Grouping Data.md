@@ -1,0 +1,7 @@
+- The **class** keyword can be used to create a user-defined type of object containing groups of related variables and functions
+- The object maintains a set of **attributes** that determines the data and behavior of the class
+- An **instantiation** operation is performed by "calling" the class, using parentheses like a function call
+- An instantiation operation creates an **instance**, which is an individual object of the given class
+- A **method** is a function defined within a class
+- The **__init__** method, commonly known as a **constructor**, is responsible for setting up the initial state of the new instance 
+- Attributes can be accessed using the **attribute reference operator** "." (sometimes called the **member operator** or **dot notation**)

@@ -1,0 +1,2 @@
+- A function defined within a class is known as an **instance method**. An instance method can be referenced using dot notation.
+- **__init__** is a **special method name**, indicating that the method implements some special behavior of the class

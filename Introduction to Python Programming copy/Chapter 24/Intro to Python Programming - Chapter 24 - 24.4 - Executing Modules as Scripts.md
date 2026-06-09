@@ -1,0 +1,1 @@
+- A file can better support execution as both a script and an importable module by utilizing the **__name__** special variable. **__name__** is a global string variable automatically added to every module that contains the name of the module

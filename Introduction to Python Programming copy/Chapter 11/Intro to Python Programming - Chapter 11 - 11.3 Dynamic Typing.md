@@ -1,0 +1,4 @@
+**Dynamic and Static Typing**
+- The function's behavior of adding together different types is a concept called **polymorphism**. Polymorphism is an inherent part of the Python language. For example, consider the multiplication operator `*`. If the two operands are numbers, then the result is the product of those two numbers. If one operand is a string and the other an integer (e.g., `"x" * 5`), then the result is a repetition of the string five times: `"xxxxx"`.
+- Python uses **dynamic typing** to determine the type of objects as a program executes
+- In contrast to dynamic typing, many other languages like C, C++, and Java use **static typing**, which required the programmer to define the type of every variable and every function parameter in a program's source code

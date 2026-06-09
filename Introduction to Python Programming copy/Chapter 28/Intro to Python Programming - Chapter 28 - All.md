@@ -1,0 +1,7 @@
+[[Intro to Python Programming - Chapter 28 - 28.1 - Intro to Data Science]]
+[[Intro to Python Programming - Chapter 28 - 28.2 - Data Science Life Cycle]]
+[[Intro to Python Programming - Chapter 28 - 28.3 - Introdutction to Python for Data Science]]
+[[Intro to Python Programming - Chapter 28 - 28.4 - Intro to Jupyter Notebooks]]
+[[Intro to Python Programming - Chapter 28 - 28.5 - NumPy]]
+[[Intro to Python Programming - Chapter 28 - 28.6 - pandas]]
+[[Intro to Python Programming - Chapter 28 - 28.7 - Matplotlib]]

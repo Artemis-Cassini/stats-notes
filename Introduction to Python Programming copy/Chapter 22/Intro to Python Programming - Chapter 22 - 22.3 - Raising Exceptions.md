@@ -1,0 +1,2 @@
+- Code that detects an error can execute a **raise** statement, which causes immediate exit from the block and the execution of an exception handler
+- The **as** keyword binds a name to the exception being handled 

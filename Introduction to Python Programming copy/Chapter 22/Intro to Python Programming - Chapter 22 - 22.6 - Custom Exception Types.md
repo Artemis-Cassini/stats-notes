@@ -1,0 +1,1 @@
+- Alternatively, a **custom exception type** can be defined and then raised

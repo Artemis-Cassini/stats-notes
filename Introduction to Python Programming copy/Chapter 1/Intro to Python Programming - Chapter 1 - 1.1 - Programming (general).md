@@ -1,0 +1,3 @@
+- Input - A program receives data from a file, keyboard, touchscreen, network, etc
+- Process - A program performs computations on that data, such as adding two values like x + y 
+- Output - A program puts that data somewhere, such as a file, screen, or network

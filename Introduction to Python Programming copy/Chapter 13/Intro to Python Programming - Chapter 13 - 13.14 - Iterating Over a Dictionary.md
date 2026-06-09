@@ -1,0 +1,5 @@
+- A **hash** is a transformation of the key into a unique value that allows the interpreter to perform fast lookup
+- A **view object** provides read-only access to dictionary keys and values
+	- dict.items() - returns a view object that yield (key, value) tuples
+	- dict.keys() - returns a view object that yields dictionary keys
+	- dict.values() - returns a view object that yields dictionary values

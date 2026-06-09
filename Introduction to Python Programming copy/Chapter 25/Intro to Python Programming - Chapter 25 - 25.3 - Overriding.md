@@ -1,0 +1,1 @@
+- Such a member function **overrides** the method of the base class

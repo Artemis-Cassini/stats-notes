@@ -1,0 +1,4 @@
+**Reading From a File**
+- A common programming task is to retrieve input from a file using the built-in **open()** function instead of using keyboard entry
+- The **file.close()** method closes the file, after which no more reads or writes to the file are allowed
+- The **file.read()** method returns the file contents as a string. The **file.readlines()** method returns a list of string, where the first element is the contents of the first line, the second element is the contents of the second line, and so on. Each method stops reading when the end-of-file (**EOF**) is detected, which indicates no more data is available

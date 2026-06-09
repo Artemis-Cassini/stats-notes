@@ -1,0 +1,4 @@
+**Incremental Programming**
+- As programs increase in complexity, a programmer's development process becomes more important. A programmer should not write the entire program and then run the program hoping the program works. If the program does not work on the first try, debugging can be extra difficult because the program may have many bugs
+- Experienced programmers practice **incremental programming** by starting with a simple version of the program, and growing the program little by little into a complete version
+- A **FIXME comment** attracts attention to code that needs to be fixed in the future

@@ -1,0 +1,6 @@
+[[Intro to Python Programming - Chapter 22 - 22.1 - Handling Exceptions Using Try and Except]]
+[[Intro to Python Programming - Chapter 22 - 22.2 - Multiple Handlers]]
+[[Intro to Python Programming - Chapter 22 - 22.3 - Raising Exceptions]]
+[[Intro to Python Programming - Chapter 22 - 22.4 - Exceptions with Functions]]
+[[Intro to Python Programming - Chapter 22 - 22.5 - Using Finally to Clean Up]]
+[[Intro to Python Programming - Chapter 22 - 22.6 - Custom Exception Types]]

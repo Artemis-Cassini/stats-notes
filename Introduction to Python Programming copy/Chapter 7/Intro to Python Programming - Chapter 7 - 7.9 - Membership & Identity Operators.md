@@ -1,0 +1,12 @@
+**Membership Operators: In/Not In**
+- One programming task involves determining whether a specific value can be found within a container, such as a list of dictionary
+- The in and not in operators, known as membership operators, yield True or False if the left operand matches the value of an element in the right operand, which is always a container 
+- The membership operators can be used with sequence types. If the variable x is a list or tuple, then `a in x` evaluates to True if there exists an index idx for which `a == x[idx]` is True. The program below demonstrates membership operator usage in a list:
+- Membership operators can be used to check whether a string is a substring, or matching subset of characters, of a larger string. For example, "abc" in "123abcd" returns True because the substring abc exists in the larger string.
+- Membership in a dictionary (dict) implies that a specific _key_ exists in the dictionary. A common error is to assume that a membership operator checks the values of each dictionary key as well.
+
+**Identity Operators: Is/Is Not**
+- Sometimes a programmer wants to determine whether two variables are the same object. The programmer can use the identity operator, is, to check whether two operands are bound to a single object. The inverse identity operator, is not, gives the negated value of "is". Thus if x is y is True, then x is not y is False
+- Identity operators do not compare object values, rather, identity operators compare object identities to determine equivalence. Object identity is usually the memory address of an object. Thus, identity operators return True only if the operands reference the same object
+- A common error is to confuse the equivalence operator " == " and the identity operator "is" because a statement such as `if x is 3` is valid syntax and is grammatically appealing. Python may confusedly evaluate the statement `x is 3` as True, but `y is 1000` as False, when x = 3 and y = 1000. Python interpreters typically precreate objects for a small range of numbers to avoid constantly recreating objects for such small values. In the example above, an object for 3 was precreated, so x references the same object as the literal. However, Python did not precreate an object for 1000. A good practice is to avoid using the identity operators "is" and "is not", unless explicitly testing whether two objects are identical.
+- The id() function can be used to retrieve the identifier of any object. If `x is y` is True, then `id(x) == id(y)` is also True.

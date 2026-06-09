@@ -1,0 +1,1 @@
+- A class instance is initialized to a specific state. The **__init__** method constructor can be customized with additional parameters

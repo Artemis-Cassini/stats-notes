@@ -1,0 +1,1 @@
+- The recursive function has an if-else statement, where the if branch is the end of the recursion, known as the **base case**

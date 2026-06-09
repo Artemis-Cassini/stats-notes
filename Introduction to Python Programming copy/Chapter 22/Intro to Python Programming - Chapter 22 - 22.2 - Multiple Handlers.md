@@ -1,0 +1,2 @@
+- Multiple **exception handlers** can be added to a try block by adding additional except blocks and specifying the type of exception that each except block handles
+- If no exception handler exists for an error type, then an **unhandled exception** may occur

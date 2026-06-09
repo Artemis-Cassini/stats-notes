@@ -1,0 +1,1 @@
+- The **depth** of recursion is a measure of how many recursive calls of a function have been made, but have not yet returned

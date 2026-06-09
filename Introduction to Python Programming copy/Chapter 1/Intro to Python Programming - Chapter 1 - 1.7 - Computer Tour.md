@@ -1,0 +1,6 @@
+- Input/Output Devices // Screen // Keyboard
+- Storage // SSD
+- Memory // RAM
+- Processor // OS // Cache
+- Clock
+- Moore’s Law

@@ -1,0 +1,2 @@
+- Instead of restarting the entire Python program, the **reload()** function can be used to reload and re-execute the changed module
+- The **__file__** special name contains the path to a module in the computer file system

@@ -1,0 +1,2 @@
+- Text data is commonly organized in a spreadsheet format using columns and rows. A **comma-separated values** (csv) file is a simple text-based file format that uses commas to separate data items, called **fields**
+- The Python standard library **csv module** can be used to help read and write files in the csv format

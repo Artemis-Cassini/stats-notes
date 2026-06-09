@@ -1,0 +1,1 @@
+- The term **derived class** refers to a class that inherits the class attributes of another class, known as a **base class**. Any class may serve as a base class; no changes to the definition of that class are required. The derived class is said to *inherit* the attributes of its base class, a concept called **inheritance**

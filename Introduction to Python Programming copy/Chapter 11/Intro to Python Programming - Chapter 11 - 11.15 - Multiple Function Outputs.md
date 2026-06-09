@@ -1,0 +1,3 @@
+**Multiple Function Outputs**
+- Occasionally a function should produce multiple output values. However, function return statements are limited to returning only one value. A workaround is to package the multiple outputs into a single container, commonly a tuple, and return that container.
+- **Unpacking** is an operation that allows a statement to perform multiple assignments at once to variables in a tuple or list

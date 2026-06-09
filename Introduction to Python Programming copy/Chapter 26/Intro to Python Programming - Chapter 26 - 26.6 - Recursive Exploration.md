@@ -1,0 +1,1 @@
+- Recursion is a powerful tool for exploring all possibilities, such as all possible reorderings of a word's letters, all possible subsets of items, all possible paths between cities, etc. This section provides several examples of using recursion for such exploration.

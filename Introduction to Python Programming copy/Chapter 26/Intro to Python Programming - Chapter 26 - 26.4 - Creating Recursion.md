@@ -1,0 +1,3 @@
+- Creating a recursive function can be accomplished in two steps
+	- *Write base case* -- Every recursive function must have a case that returns a value without performing a recursive call. That case is called the **base case**. A programmer may write that part of the function first, and then test. There may be multiple base cases
+	- *Write recursive case* -- The programmer then adds the recursive case to the function

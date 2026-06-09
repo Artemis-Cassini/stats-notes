@@ -1,0 +1,6 @@
+[[Intro to Python Programming - Chapter 16 - 16.1 - Writing Files]]
+[[Intro to Python Programming - Chapter 16 - 16.2 - File Systems]]
+[[Intro to Python Programming - Chapter 16 - 16.3 - Binary Data]]
+[[Intro to Python Programming - Chapter 16 - 16.4 - Cmd-line Args and Files]]
+[[Intro to Python Programming - Chapter 16 - 16.5 - The "with" Statement]]
+[[Intro to Python Programming - Chapter 16 - 16.6 - CSV Files]]

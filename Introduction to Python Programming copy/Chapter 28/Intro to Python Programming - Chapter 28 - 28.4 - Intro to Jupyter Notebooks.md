@@ -1,0 +1,2 @@
+**Jupyter**
+- **Jupyter** is an interactive development environment (IDE) for writing and testing code in data science and scientific computing. A notebook contains **cells**, which organize code, text, and output all in one place for testing, presenting, and sharing

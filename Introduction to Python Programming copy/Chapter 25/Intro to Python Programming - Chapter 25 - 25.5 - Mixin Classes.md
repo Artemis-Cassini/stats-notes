@@ -1,0 +1,2 @@
+- A class can inherit from more than one base class, a concept known as **multiple inheritance**
+- **Mixins** are classes that provide some additional behavior, by "mixin in" new methods, but are not meant to be instantiated 

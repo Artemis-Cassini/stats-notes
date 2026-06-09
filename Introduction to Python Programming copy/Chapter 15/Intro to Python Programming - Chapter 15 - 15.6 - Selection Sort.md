@@ -1,0 +1,2 @@
+**Selection Sort Algorithm**
+- **Selection sort** is a sorting algorithm that treats the input as two parts, sorted and unsorted, and repeatedly selects the proper next value to move from the unsorted part to the end of the sorted part

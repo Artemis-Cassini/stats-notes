@@ -1,0 +1,1 @@
+- The **finally** clause of a try statement allows a programmer to specify clean-up actions that are always executed

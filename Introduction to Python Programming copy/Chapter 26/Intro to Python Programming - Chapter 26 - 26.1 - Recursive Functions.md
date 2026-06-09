@@ -1,0 +1,1 @@
+- A function that calls itself is known as a **recursive function**

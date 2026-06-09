@@ -1,0 +1,1 @@
+- A **package** is a directory that, when imported, gives access to all of the modules stored in the directory

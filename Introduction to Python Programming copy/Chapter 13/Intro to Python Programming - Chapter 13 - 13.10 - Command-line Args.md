@@ -1,0 +1,3 @@
+- **Command-line arguments** are values entered by a user when running a program from a command line
+- The contents of this command line are automatically stored in the list **sys.argv**, which is sortred in the standard library sys module
+- If the number of arguments is incorrect, the program prints an error message, referred to as a **usage message**, that provides the user with an example of the correct command-line argument format

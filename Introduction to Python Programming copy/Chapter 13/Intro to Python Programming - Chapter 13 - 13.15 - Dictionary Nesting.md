@@ -1,0 +1,2 @@
+- A dictionary may contain one or more **nested dictionaries**, in with the dictionary contains another dictionary as a value
+- A **data structure** is a method of organizing data inn a logical and coherent fashion

@@ -1,0 +1,2 @@
+**Quick-sort and Partitioning**
+- **Quick-sort** is a sorting algorithm that repeatedly partitions the input into low and high parts (each unsorted), and then recursively sorts each of those parts. The **pivot** can be any value within the array, commonly the value of the middle array element

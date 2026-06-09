@@ -1,0 +1,2 @@
+- A **class interface** consists of the methods that a programmer calls to create, modify, or access a class instance
+- A class can be used to implement the computing concept known as an **abstract data type (ADT)**, whose creation and update are constrained to specific, well-defined operations (the class interface)

@@ -1,0 +1,1 @@
+- The power of exceptions becomes even more clear when used within functions. If an exception is raised within a function and is not handled within that function, then the function is immediately exited and the calling function is checked for a handler, and so on up the function call hierarchy

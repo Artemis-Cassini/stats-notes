@@ -1,0 +1,2 @@
+- One of the most useful list methods is **sort()**, which performs an in-place rearranging of the list elements, sorting the elements from lowest to highest
+- Both the list.sort() method and the built-in sorted() function have an optional **key** argument
